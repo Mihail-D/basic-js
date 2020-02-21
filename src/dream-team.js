@@ -12,8 +12,7 @@ module.exports = function createDreamTeam(members) {
 				typeCheck = 1;
 			}
 		}
-		newString = newString.sort().join("");
-		return newString;
+		return newString.sort().join("");
 	} else {
 		return false;
 	}
