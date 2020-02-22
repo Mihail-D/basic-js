@@ -39,3 +39,4 @@ jspm_packages
 .node_repl_history
 src/a-file.js
 .gitignore
+report*
